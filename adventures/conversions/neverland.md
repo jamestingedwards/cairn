@@ -8,7 +8,8 @@ title: Neverland
 # Neverland
 
 - Based on the [Neverland](https://publishing.andrewsmcmeel.com/book/neverland-a-fantasy-role-playing-setting/) by [Andrew Kolb](https://www.kolbisneat.com/).
-- Conversion by [David Schirduan](https://www.technicalgrimoire.com/].
+- Initial conversion by [David Schirduan](https://www.technicalgrimoire.com/).
+- Updates by JamesWords to line up with Cairn bestiary stats and approach.
 
 ## General Notes
 - I tried to be as consistent as possible when converting creatures. But some of the 5e stats are a little silly, so you will probably want to tweak things a bit. E.g. Peter Pan probably doesn't need crazy high stats.
